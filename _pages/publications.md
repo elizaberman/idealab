@@ -8,10 +8,6 @@ permalink: /publications/
 
 # Publications
 
-This page lists publications **since Emily became an Assistant Professor (July 2023).**
-
-## Group highlights
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -56,10 +52,4 @@ This page lists publications **since Emily became an Assistant Professor (July 2
 
 <p>&nbsp;</p>
 
-## Full list of publications (2023–present)
 
-{% for publi in site.data.publist %}
-- **{{ publi.title }}**  
-  <em>{{ publi.authors }}</em>  
-  [{{ publi.link.display }}]({{ publi.link.url }})
-{% endfor %}
