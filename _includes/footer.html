@@ -3,7 +3,6 @@
     <div class="container-fluid">
       <div class="row">
 
-        <!-- Left: logo + copyright inline -->
         <div class="col-sm-4">
           <div class="footer-brand">
             <img
@@ -41,19 +40,16 @@
   </div>
 </div>
 
-<!-- Footer logo styling -->
 <style>
   .footer-brand{
     display: flex;
     align-items: flex-start;
-    gap: 14px;
+    gap: 16px;
   }
 
-  /* "as big as it can be" without breaking layout:
-     - fills a reasonable portion of the footer height
-     - still behaves on small screens */
+  /* bigger logo */
   .footer-logo{
-    height: 70px;      /* tweak up/down if your footer is taller/shorter */
+    height: 95px;   /* was 70px */
     width: auto;
     max-width: 100%;
     display: block;
@@ -68,7 +64,7 @@
       align-items: center;
     }
     .footer-logo{
-      height: 56px;
+      height: 72px;
     }
   }
 </style>
