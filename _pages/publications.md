@@ -1,67 +1,26 @@
 ---
-title: "Allan Lab - Publications"
+title: "IDEA Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "IDEA Lab — Publications"
 sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
-## Group highlights
+This page lists publications **since Emily became an Assistant Professor (July 2023)**. :contentReference[oaicite:0]{index=0}
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+## Conference papers (2023–present)
 
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+1. Qihan Wang, Shidong Pang, Tal Linzen, Emily Black. **Multi-Lingual Prompting for Generation Diversity.** EMNLP 2025. :contentReference[oaicite:1]{index=1}  
+2. Fan Wu, Emily Black*, Varun Chandrasekaran*. **Generative Monoculture in Large Language Models.** ICLR 2025. :contentReference[oaicite:2]{index=2}  
+3. Tom Zollo, Nikita Rajaneesh, Rich Zemel, Talia Gillis, Emily Black. **Towards Effective Discrimination Testing for Generative AI.** FAccT 2025. :contentReference[oaicite:3]{index=3}  
+4. Gordon Dai, Pavan Ravishankar, Rachel Yuan, Daniel B. Neill, Emily Black. **Be Intentional About Fairness!: Fairness, Size, and Multiplicity in the Rashomon Set.** EAAMO 2025. :contentReference[oaicite:4]{index=4}  
+5. Emily Black, Talia Gillis, Zara Hall. **D-hacking.** ACM FAccT 2024 (June 2024). :contentReference[oaicite:5]{index=5}  
+6. Emily Black, John Logan Koepke*, Solon Barocas, Pauline Kim, Mingwei Hsu. **The Legal Duty to Search for Less Discriminatory Algorithms.** ACM FAccT 2024 (June 2024; non-archival). :contentReference[oaicite:6]{index=6}  
+7. Hadi Elzayn, Emily Black, Patrick Vossler, Nathaneal Jo, Jacob Goldin, Daniel Ho. **Estimating and Implementing Conventional Fairness Metrics With Probabilistic Protected Features.** IEEE SATML 2023. :contentReference[oaicite:7]{index=7}  
+8. Emily Black, Rakshit Naidu, Rayid Ghani, Kit Rodolfa, Daniel E. Ho, Hoda Heidari. **Toward Operationalizing Pipeline-aware ML Fairness: A Research Agenda for Developing Practical Guidelines and Tools.** ACM EAAMO 2023 (Oct 2023). :contentReference[oaicite:8]{index=8}  
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+## Law review
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
-
-## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
+- Emily Black*, John Logan Koepke*, Solon Barocas, Pauline Kim, Mingwei Hsu. **The Law of Less Discriminatory Algorithms.** Forthcoming *Georgetown Law Journal* (Oct 2024). :contentReference[oaicite:9]{index=9}
