@@ -15,16 +15,12 @@ We occasionally have postdoctoral openings. If you’re interested in a postdoc 
 
 - a short note on your research agenda and why Black Lab is a good fit
 - your CV
-- 1–2 representative publications or writing samples
-- (optional) links to a personal website / GitHub / Google Scholar
 
 ## PhD opportunities
 If you’re interested in joining **Black Lab** as a PhD student, you’re welcome to email **Emily Black** with:
 
 - a short note on your interests and why Black Lab is a good fit
 - your CV
-- (optional) 1–2 writing samples (paper, preprint, blog post, or project report)
-- (optional) links to a personal website / GitHub / Google Scholar
 
 **Important:** PhD applicants must also apply through the official **NYU Courant PhD admissions** process. In your application, please list **Emily Black** as a faculty member you are interested in working with.
 
