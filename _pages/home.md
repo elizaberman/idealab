@@ -20,7 +20,7 @@ We develop evaluation methods, datasets, and auditing approaches to understand *
 - **Fairness & accountability** in high-stakes settings
 - **Auditing and evaluation of generative AI harms**
 - **Reliable evaluation under deployment constraints** 
-- **LLM behavior and diversity
+- **LLM behavior, stability, and diversity**
 
 ### Join us
 We’re always excited to hear from thoughtful, motivated researchers.  
