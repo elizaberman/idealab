@@ -8,28 +8,32 @@ permalink: /vacancies
 
 # Open positions
 
-We’re always interested in hearing from talented students and researchers who care about building **reliable, accountable, and impactful AI systems**.
+We’re always happy to hear from students and researchers who care about building **reliable, accountable, and impactful AI systems**.
 
 ## Postdoc opportunities
-We occasionally have postdoctoral openings. If you’re interested in a postdoc at **Black Lab**, please email **Emily Black** with:
+We occasionally have postdoctoral openings. If you’re interested in a postdoc with **Black Lab**, please email **Emily Black** with:
 
-- a short note on your research agenda and why Black Lab is a good fit
+- a short note on your research agenda and why the lab is a good fit
 - your CV
 
 ## PhD opportunities
 If you’re interested in joining **Black Lab** as a PhD student, you’re welcome to email **Emily Black** with:
 
-- a short note on your interests and why Black Lab is a good fit
+- a short note on your interests and why the lab is a good fit
 - your CV
 
 **Important:** PhD applicants must also apply through the official **NYU Courant PhD admissions** process. In your application, please list **Emily Black** as a faculty member you are interested in working with.
 
 ## Master’s and undergraduate research
-We sometimes have openings for Master’s and undergraduate research assistants during the academic year and summer. If you’re interested, email **Emily Black** with your CV and a short description of:
+We regularly work with Master’s and undergraduate students, and we’re especially excited to meet **NYU students** who are interested in research.
 
-- relevant coursework or experience
-- what kinds of projects you’re excited about
-- your availability (semester/summer, hours per week)
+In particular, if you’ve taken **Emily’s class** and would like to explore a research project, please reach out—we love turning class projects into meaningful collaborations!
+
+If you’re interested, email **Emily Black** with:
+
+- your CV (or a brief résumé)
+- a short description of what you’d like to work on (a few sentences is great)
+- your availability (semester/summer, approximate hours per week)
 
 ## Visiting researchers
 If you’re interested in visiting Black Lab (academic visitors, short-term collaborations), email **Emily Black** with your proposed dates and a brief project idea.
