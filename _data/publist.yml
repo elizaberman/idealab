@@ -1,11 +1,11 @@
-- title: "Multi-Lingual Prompting for Generation Diversity"
-  authors: "Qihan Wang, Shidong Pang, Tal Linzen, Emily Black"
+- title: "Multilingual Prompting for Improving LLM Generation Diversity"
+  authors: "Qihan Wang, Shidong Pan, Tal Linzen, Emily Black"
   description: "EMNLP 2025."
   image: ""
   highlight: 1
   link:
-    display: "Paper link"
-    url: "#"
+    display: "ACL Anthology"
+    url: "https://aclanthology.org/2025.emnlp-main.324/"
   news1: ""
   news2: ""
 
@@ -15,19 +15,19 @@
   image: ""
   highlight: 1
   link:
-    display: "Paper link"
-    url: "#"
+    display: "OpenReview"
+    url: "https://openreview.net/forum?id=yZ7sn9pyqb"
   news1: ""
   news2: ""
 
 - title: "Towards Effective Discrimination Testing for Generative AI"
-  authors: "Tom Zollo, Nikita Rajaneesh, Rich Zemel, Talia Gillis, Emily Black"
-  description: "FAccT 2025."
+  authors: "Thomas P. Zollo, Nikita Rajaneesh, Richard Zemel, Talia Gillis, Emily Black"
+  description: "ACM FAccT 2025."
   image: ""
   highlight: 1
   link:
-    display: "Paper link"
-    url: "#"
+    display: "ACM DL (DOI)"
+    url: "https://dl.acm.org/doi/10.1145/3715275.3732067"
   news1: ""
   news2: ""
 
@@ -37,62 +37,62 @@
   image: ""
   highlight: 1
   link:
-    display: "Paper link"
-    url: "#"
+    display: "ACM DL (DOI)"
+    url: "https://dl.acm.org/doi/abs/10.1145/3757887.3763011"
   news1: ""
   news2: ""
 
 - title: "D-hacking"
-  authors: "Emily Black, Talia Gillis, Zara Hall"
-  description: "ACM FAccT 2024 (June 2024)."
+  authors: "Emily Black, Talia Gillis, Zara Yasmine Hall"
+  description: "ACM FAccT 2024."
   image: ""
   highlight: 0
   link:
-    display: "Paper link"
-    url: "#"
+    display: "ACM DL (DOI)"
+    url: "https://dl.acm.org/doi/10.1145/3630106.3658928"
   news1: ""
   news2: ""
 
 - title: "The Legal Duty to Search for Less Discriminatory Algorithms"
-  authors: "Emily Black, John Logan Koepke, Solon Barocas, Pauline Kim, Mingwei Hsu"
-  description: "ACM FAccT 2024 (June 2024; non-archival)."
+  authors: "Emily Black, Logan Koepke, Pauline Kim, Solon Barocas, Mingwei Hsu"
+  description: "FAccT 2024 (non-archival)."
   image: ""
   highlight: 0
   link:
-    display: "Paper link"
-    url: "#"
+    display: "arXiv"
+    url: "https://arxiv.org/abs/2406.06817"
   news1: ""
   news2: ""
 
 - title: "Estimating and Implementing Conventional Fairness Metrics With Probabilistic Protected Features"
-  authors: "Hadi Elzayn, Emily Black, Patrick Vossler, Nathaneal Jo, Jacob Goldin, Daniel Ho"
-  description: "IEEE SATML 2023."
+  authors: "Hadi Elzayn, Emily Black, Patrick Vossler, Nathanael Jo, Jacob Goldin, Daniel E. Ho"
+  description: "IEEE SaTML 2024."
   image: ""
   highlight: 0
   link:
-    display: "Paper link"
-    url: "#"
+    display: "arXiv"
+    url: "https://arxiv.org/abs/2310.01679"
   news1: ""
   news2: ""
 
 - title: "Toward Operationalizing Pipeline-aware ML Fairness: A Research Agenda for Developing Practical Guidelines and Tools"
-  authors: "Emily Black, Rakshit Naidu, Rayid Ghani, Kit Rodolfa, Daniel E. Ho, Hoda Heidari"
-  description: "ACM EAAMO 2023 (Oct 2023)."
+  authors: "Emily Black, Rakshit Naidu, Rayid Ghani, Kit T. Rodolfa, Daniel E. Ho, Hoda Heidari"
+  description: "ACM EAAMO 2023."
   image: ""
   highlight: 0
   link:
-    display: "Paper link"
-    url: "#"
+    display: "ACM DL (DOI)"
+    url: "https://dl.acm.org/doi/10.1145/3617694.3623259"
   news1: ""
   news2: ""
 
-- title: "The Law of Less Discriminatory Algorithms"
+- title: "Less Discriminatory Algorithms"
   authors: "Emily Black, John Logan Koepke, Solon Barocas, Pauline Kim, Mingwei Hsu"
-  description: "Forthcoming Georgetown Law Journal (Oct 2024)."
+  description: "Georgetown Law Journal (Oct 2024)."
   image: ""
   highlight: 0
   link:
-    display: "Paper link"
-    url: "#"
+    display: "Georgetown Law Journal"
+    url: "https://www.law.georgetown.edu/georgetown-law-journal/in-print/volume-113/volume-113-issue-1-october-2024/less-discriminatory-algorithms/"
   news1: ""
   news2: ""
