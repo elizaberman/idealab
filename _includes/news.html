@@ -1,15 +1,20 @@
-<h4>News</h4>
+<div class="panel panel-default">
+  <div class="panel-heading"><strong>News</strong></div>
+  <div class="panel-body">
 
-{% assign sorted_news = site.data.news | sort: "sort_date" | reverse %}
+    {% assign sorted_news = site.data.news | sort: "sort_date" | reverse %}
 
-<ul style="padding-left: 18px; margin-bottom: 10px;">
-  {% for article in sorted_news %}
-    <li style="margin-bottom:6px;">
-      <em>{{ article.date }}</em> — {{ article.headline }}
-    </li>
-  {% endfor %}
-</ul>
+    <ul style="padding-left: 18px; margin-bottom: 10px;">
+      {% for article in sorted_news %}
+        <li style="margin-bottom:6px;">
+          <em>{{ article.date }}</em> — {{ article.headline }}
+        </li>
+      {% endfor %}
+    </ul>
 
-<p style="margin-top:10px;">
-  <a href="{{ '/allnews.html' | relative_url }}">See all news</a>
-</p>
+    <p style="margin:0;">
+      <a href="{{ '/allnews.html' | relative_url }}">See all news</a>
+    </p>
+
+  </div>
+</div>
