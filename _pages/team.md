@@ -8,9 +8,16 @@ permalink: /team/
 
 # Team
 
-Jump to [PhD students](#phd-students), [Master's students](#masters-students), [Undergraduate students](#undergraduate-students).
+Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-students), [Undergraduate students](#undergraduate-students).
 
 > **Photos:** placeholders for now — we’ll add headshots soon.
+
+---
+
+## PI
+
+![Emily placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+**Emily Black** — Principal Investigator
 
 ---
 
