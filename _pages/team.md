@@ -17,7 +17,7 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 ## PI
 
 ![Emily placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
-**Emily Black** — Principal Investigator
+**[Emily Black](https://emblack.github.io/)** — Principal Investigator
 
 ---
 
