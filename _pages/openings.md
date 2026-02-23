@@ -33,9 +33,6 @@ If you’re interested, email Emily with:
 - a short description of what you’d like to work on (a few sentences is great)
 - your availability (semester/summer, approximate hours per week)
 
-## Visiting researchers
-If you’re interested in visiting IDEA Lab (academic visitors, short-term collaborations), email **Emily Black** with your proposed dates and a brief project idea.
-
 ---
 
 _Last updated: {{ site.time | date: "%B %Y" }}_
