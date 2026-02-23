@@ -1,30 +1,37 @@
 <div id="footer" class="panel">
   <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
+    <div class="container-fluid">
+      <div class="row">
 
-		  <p>&copy 2016 Allan Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              
+        <div class="col-sm-4">
+          <p>&copy; {{ site.time | date: "%Y" }} Black Lab.</p>
+          <p style="margin-top:8px;">
+            Site built with <a href="https://jekyllrb.com">Jekyll</a>.
+            Template credit: <a href="https://github.com/mpa139/allanlab">Allan Lab website template</a>.
+          </p>
+        </div>
 
+        <div class="col-sm-4">
+          <p>
+            We are a research group focused on reliable, accountable, and impactful AI.
+            <!-- Optional: add your department / university link here -->
+            <!-- Example: We are part of the <a href="https://cims.nyu.edu/">NYU Courant Institute</a>. -->
+          </p>
+        </div>
 
-		   <p>  </p><p>
+        <div class="col-sm-4">
+          <p>
+            Contact:<br />
+            <!-- Replace with your lab email + location -->
+            <a href="mailto:blacklab@nyu.edu">blacklab@nyu.edu</a><br />
+            New York, NY, USA
+          </p>
+        </div>
 
-
-		</div>
-		<div class="col-sm-4">
-		<p>We are part of the <a href="https://www.physik.lmu.de/en//">Faculty of Physics</a> at the<a href="https://www.lmu.de"> University of Munich (LMU)</a>. We are still associated with the <a href="https://www.physics.leidenuniv.nl/">Leiden Institute of Physics</a>, where most of our instrument are.</p>
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-Geschwister-Scholl-Platz 1<br />
-		  80539 München<br />
-		  Germany <br />
-		</div>
-	  </div>
-	</div>
+      </div>
+    </div>
   </div>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+<script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
