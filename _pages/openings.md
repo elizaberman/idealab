@@ -11,39 +11,32 @@ permalink: /vacancies
 We’re always interested in hearing from talented students and researchers who care about building **reliable, accountable, and impactful AI systems**.
 
 ## Postdoc opportunities
-We occasionally have postdoctoral openings. If you’re interested in a postdoc at **Black Lab**, please **reach out by email** with:
+We occasionally have postdoctoral openings. If you’re interested in a postdoc at **Black Lab**, please email **Emily Black** with:
 
 - a short note on your research agenda and why Black Lab is a good fit
 - your CV
 - 1–2 representative publications or writing samples
-- your preferred start date (and any funding constraints, if relevant)
-
-**Email:** [blacklab@nyu.edu](mailto:blacklab@nyu.edu)  
+- (optional) links to a personal website / GitHub / Google Scholar
 
 ## PhD opportunities
-If you’re interested in joining **Black Lab** as a PhD student, you’re welcome to reach out by email with:
+If you’re interested in joining **Black Lab** as a PhD student, you’re welcome to email **Emily Black** with:
 
 - a short note on your interests and why Black Lab is a good fit
 - your CV
 - (optional) 1–2 writing samples (paper, preprint, blog post, or project report)
 - (optional) links to a personal website / GitHub / Google Scholar
 
-**Email:** [blacklab@nyu.edu](mailto:blacklab@nyu.edu)  
-
 **Important:** PhD applicants must also apply through the official **NYU Courant PhD admissions** process. In your application, please list **Emily Black** as a faculty member you are interested in working with.
 
 ## Master’s and undergraduate research
-We sometimes have openings for Master’s and undergraduate research assistants during the academic year and summer. If you’re interested, email us with your CV and a short description of:
+We sometimes have openings for Master’s and undergraduate research assistants during the academic year and summer. If you’re interested, email **Emily Black** with your CV and a short description of:
 
 - relevant coursework or experience
 - what kinds of projects you’re excited about
 - your availability (semester/summer, hours per week)
 
-**Email:** [blacklab@nyu.edu](mailto:blacklab@nyu.edu)  
-**Subject line:** _“Research – MS/Undergrad”_
-
 ## Visiting researchers
-If you’re interested in visiting Black Lab (academic visitors, short-term collaborations), reach out with your proposed dates and a brief project idea.
+If you’re interested in visiting Black Lab (academic visitors, short-term collaborations), email **Emily Black** with your proposed dates and a brief project idea.
 
 ---
 
