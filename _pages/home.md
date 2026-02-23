@@ -11,7 +11,7 @@ We are a research group at [NYU Computer Science](https://cs.nyu.edu/home/index.
 Our research has the following goals...  
 
 <img
-  src="{{ '/images/logopic/idealab.png' | relative_url }}"
+  src="{{ '/images/logopic/IDEALAB.png' | relative_url }}"
   alt="IDEA LAB logo"
   style="max-width:260px; height:auto; display:block; margin: 0 auto 18px auto;"
 />
