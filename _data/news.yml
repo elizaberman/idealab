@@ -1,26 +1,35 @@
-- date: "November 2025"
+- sort_date: 2025-11-01
+  date: "November 2025"
   headline: "EMNLP 2025: Multi-Lingual Prompting for Generation Diversity."
 
-- date: "April 2025"
-  headline: "ICLR 2025: Generative Monoculture in Large Language Models."
-
-- date: "June 2025"
-  headline: "FAccT 2025: Towards Effective Discrimination Testing for Generative AI."
-
-- date: "October 2025"
+- sort_date: 2025-10-01
+  date: "October 2025"
   headline: "EAAMO 2025: Be Intentional About Fairness!: Fairness, Size, and Multiplicity in the Rashomon Set."
 
-- date: "June 2024"
-  headline: "FAccT 2024: D-hacking."
+- sort_date: 2025-06-01
+  date: "June 2025"
+  headline: "FAccT 2025: Towards Effective Discrimination Testing for Generative AI."
 
-- date: "June 2024"
-  headline: "FAccT 2024 (non-archival): The Legal Duty to Search for Less Discriminatory Algorithms."
+- sort_date: 2025-04-01
+  date: "April 2025"
+  headline: "ICLR 2025: Generative Monoculture in Large Language Models."
 
-- date: "October 2024"
+- sort_date: 2024-10-01
+  date: "October 2024"
   headline: "Georgetown Law Journal: The Law of Less Discriminatory Algorithms."
 
-- date: "August 2024"
+- sort_date: 2024-08-01
+  date: "August 2024"
   headline: "Emily Black joins NYU as Assistant Professor (Computer Science & Engineering and Center for Data Science)."
 
-- date: "2023"
+- sort_date: 2024-06-15
+  date: "June 2024"
+  headline: "FAccT 2024 (non-archival): The Legal Duty to Search for Less Discriminatory Algorithms."
+
+- sort_date: 2024-06-01
+  date: "June 2024"
+  headline: "FAccT 2024: D-hacking."
+
+- sort_date: 2023-01-01
+  date: "2023"
   headline: "Award: Privacy Papers for Policymakers."
