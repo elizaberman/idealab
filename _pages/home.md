@@ -13,7 +13,7 @@ Our research has the following goals...
 <img
   src="{{ '/images/logopic/IDEALAB.png' | relative_url }}"
   alt="IDEA LAB logo"
-  style="max-width:260px; height:auto; display:block; margin: 0 auto 18px auto;"
+  style="width:100%; max-width:900px; height:auto; display:block; margin: 0 auto 24px auto;"
 />
 
 We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
