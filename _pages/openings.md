@@ -1,5 +1,5 @@
 ---
-title: "Black Lab - Vacancies"
+title: "IDEA Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -17,7 +17,7 @@ We occasionally have postdoctoral openings. If you’re interested in a postdoc 
 - your CV
 
 ## PhD opportunities
-If you’re interested in joining **Black Lab** as a PhD student, you’re welcome to email **Emily Black** with:
+If you’re interested in joining **IDEA Lab** as a PhD student, you’re welcome to email **Emily Black** with:
 
 - a short note on your interests and why the lab is a good fit
 - your CV
@@ -34,7 +34,7 @@ If you’re interested, email **Emily Black** with:
 - your availability (semester/summer, approximate hours per week)
 
 ## Visiting researchers
-If you’re interested in visiting Black Lab (academic visitors, short-term collaborations), email **Emily Black** with your proposed dates and a brief project idea.
+If you’re interested in visiting IDEA Lab (academic visitors, short-term collaborations), email **Emily Black** with your proposed dates and a brief project idea.
 
 ---
 
