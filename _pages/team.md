@@ -1,5 +1,5 @@
 ---
-title: "IDEA LAB - Team"
+title: "IDEA Lab - Team"
 layout: gridlay
 excerpt: "IDEA LAB: Team members"
 sitemap: false
