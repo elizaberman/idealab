@@ -11,7 +11,7 @@ permalink: /vacancies
 We’re always happy to hear from students and researchers who care about building **reliable, accountable, and impactful AI systems**.
 
 ## Postdoc opportunities
-We occasionally have postdoctoral openings. If you’re interested in a postdoc with **Black Lab**, please email Emily with:
+We occasionally have postdoctoral openings. If you’re interested in a postdoc with **IDEA Lab**, please email Emily with:
 
 - a short note on your research agenda and why the lab is a good fit
 - your CV
