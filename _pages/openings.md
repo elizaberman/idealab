@@ -32,6 +32,8 @@ If you’re interested, email Emily with:
 - your CV (or a brief résumé)
 - a short description of what you’d like to work on (a few sentences is great)
 - your availability (semester/summer)
+
+  
 ---
 
 _Last updated: {{ site.time | date: "%B %Y" }}_
