@@ -4,7 +4,16 @@
       <div class="row">
 
         <div class="col-sm-4">
-          <p>&copy; {{ site.time | date: "%Y" }} Black Lab.</p>
+          <figure style="margin:0 0 10px 0;">
+            <img
+              src="{{ '/images/logopic/idealab2.png' | relative_url }}"
+              alt="IDEA Lab logo"
+              style="height:40px; width:auto; max-width:220px;
+                     background: rgba(255,255,255,0.95); padding:4px 6px;
+                     border-radius:6px; border:1px solid rgba(0,0,0,0.08);">
+          </figure>
+
+          <p>&copy; {{ site.time | date: "%Y" }} IDEA Lab.</p>
           <p style="margin-top:8px;">
             Site built with <a href="https://jekyllrb.com">Jekyll</a>.
             Template credit: <a href="https://github.com/mpa139/allanlab">Allan Lab website template</a>.
@@ -22,8 +31,8 @@
         <div class="col-sm-4">
           <p>
             Contact:<br />
-            <!-- Replace with your lab email + location -->
-            Emily Black
+            Emily Black<br />
+            <a href="mailto:blacklab@nyu.edu">blacklab@nyu.edu</a><br />
             New York, NY, USA
           </p>
         </div>
@@ -34,4 +43,4 @@
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+<script src="{{ '/js/bootstrap.min.js' | relative_url }}"></script>
