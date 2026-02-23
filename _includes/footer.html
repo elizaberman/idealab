@@ -1,34 +1,41 @@
 <div id="footer" class="panel">
   <div class="panel-footer">
     <div class="container-fluid">
-      <div class="row">
+      <div class="row footer-row">
 
-        <div class="col-sm-4">
-          <div class="footer-brand">
+        <!-- Column 1: LOGO ONLY -->
+        <div class="col-sm-2">
+          <a class="footer-logo-link" href="{{ '/' | relative_url }}">
             <img
               class="footer-logo"
               src="{{ '/images/logopic/idealab2.png' | relative_url }}"
               alt="IDEA Lab logo">
-            <div class="footer-brand-text">
-              <p style="margin:0;">&copy; {{ site.time | date: "%Y" }} IDEA Lab.</p>
-              <p style="margin:8px 0 0 0;">
-                Site built with <a href="https://jekyllrb.com">Jekyll</a>.
-                Template credit: <a href="https://github.com/mpa139/allanlab">Allan Lab website template</a>.
-              </p>
-            </div>
-          </div>
+          </a>
         </div>
 
-        <div class="col-sm-4">
-          <p>
-            We are a research group focused on reliable, accountable, and impactful AI.
+        <!-- Column 2: COPYRIGHT / TEMPLATE TEXT -->
+        <div class="col-sm-2">
+          <p style="margin:0;">&copy; {{ site.time | date: "%Y" }} IDEA Lab.</p>
+          <p style="margin:8px 0 0 0;">
+            Site built with <a href="https://jekyllrb.com">Jekyll</a>.<br>
+            Template credit: <a href="https://github.com/mpa139/allanlab">Allan Lab website template</a>.
           </p>
         </div>
 
+        <!-- Column 3: ABOUT -->
+        <div class="col-sm-4">
+          <p>
+            We are a research group focused on reliable, accountable, and impactful AI.
+            <!-- Optional: We are part of the <a href="https://cims.nyu.edu/">NYU Courant Institute</a>. -->
+          </p>
+        </div>
+
+        <!-- Column 4: CONTACT -->
         <div class="col-sm-4">
           <p>
             Contact:<br />
             Emily Black<br />
+            <a href="mailto:blacklab@nyu.edu">blacklab@nyu.edu</a><br />
             New York, NY, USA
           </p>
         </div>
@@ -39,30 +46,33 @@
 </div>
 
 <style>
-  .footer-brand{
+  /* vertically align columns nicely */
+  .footer-row{
     display: flex;
     align-items: center;
-    gap: 18px;
+    flex-wrap: wrap; /* keep bootstrap wrapping behavior */
   }
 
-  /* even bigger logo */
+  .footer-logo-link{
+    display: inline-block;
+  }
+
+  /* Bigger logo without touching text layout */
   .footer-logo{
-    height: 130px;  /* was 95px */
+    height: 120px;     /* bump this up/down */
     width: auto;
     max-width: 100%;
     display: block;
   }
 
-  .footer-brand-text p{
-    margin: 0;
-  }
-
+  /* On small screens, keep it reasonable */
   @media (max-width: 767px){
-    .footer-brand{
-      align-items: center;
+    .footer-row{
+      display: block; /* stack normally */
     }
     .footer-logo{
-      height: 90px;
+      height: 95px;
+      margin-bottom: 10px;
     }
   }
 </style>
