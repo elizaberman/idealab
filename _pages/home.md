@@ -6,25 +6,31 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at [NYU Computer Science](https://cs.nyu.edu/home/index.html) led by Dr. [Emily Black](https://emblack.github.io/)
-
-Our research has the following goals...  
-
 <img
   src="{{ '/images/logopic/IDEALAB.png' | relative_url }}"
   alt="IDEA LAB logo"
-  style="width:100%; max-width:900px; height:auto; display:block; margin: 0 auto 24px auto;"
+  style="width:100%; max-width:1100px; height:auto; display:block; margin: 0 auto 28px auto;"
 />
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
+We are a research group in **NYU Computer Science** led by Dr. [Emily Black](https://emblack.github.io/).
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+Our work focuses on **impact-driven evaluation of AI**: building methods and benchmarks that make AI systems more **reliable, accountable, and useful in the real world**.
 
+### What we work on
+- **Evaluation and measurement** for reliability and robustness
+- **Fairness and accountability** in high-stakes settings
+- **Dataset and benchmark design** for responsible AI
+- **Interpretability and transparency** to support deployment decisions
+
+### Join us
+We’re always excited to hear from thoughtful, motivated researchers.
+See **[Open positions]({{ '/vacancies' | relative_url }})**.
+
+---
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <!-- Replace/remove these as you add your own partner/funder logos -->
+  <!-- Example placeholders (safe to delete): -->
+  <!-- <img src="{{ '/images/logopic/partner1.png' | relative_url }}" style="width: 130px"> -->
+  <!-- <img src="{{ '/images/logopic/partner2.png' | relative_url }}" style="width: 140px"> -->
 </figure>
