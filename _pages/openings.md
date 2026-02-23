@@ -25,9 +25,7 @@ If you’re interested in joining **Black Lab** as a PhD student, you’re welco
 **Important:** PhD applicants must also apply through the official **NYU Courant PhD admissions** process. In your application, please list **Emily Black** as a faculty member you are interested in working with.
 
 ## Master’s and undergraduate research
-We regularly work with Master’s and undergraduate students, and we’re especially excited to meet **NYU students** who are interested in research.
-
-In particular, if you’ve taken **Emily’s class** and would like to explore a research project, please reach out—we love turning class projects into meaningful collaborations!
+We regularly work with Master’s and undergraduate students. In particular, if you’ve taken **Emily’s class** and would like to explore a research project, please reach out—we love turning class projects into meaningful collaborations!
 
 If you’re interested, email **Emily Black** with:
 
