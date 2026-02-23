@@ -13,11 +13,14 @@
         <span class="icon-bar"></span>
       </button>
 
-      <a class="navbar-brand" href="{{ '/' | relative_url }}">
+      <a class="navbar-brand"
+         href="{{ '/' | relative_url }}"
+         style="display:flex; align-items:center; gap:10px; padding-top:8px; padding-bottom:8px;">
         <img class="nav-logo"
              src="{{ '/images/logopic/idealab2.png' | relative_url }}"
-             alt="IDEA LAB logo">
-        <span class="nav-brand-text">IDEA Lab at NYU</span>
+             alt="IDEA LAB logo"
+             style="height:28px; width:auto; max-width:140px; display:inline-block;">
+        <span class="nav-brand-text" style="line-height:1; white-space:nowrap;">IDEA Lab at NYU</span>
       </a>
     </div>
 
@@ -25,7 +28,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
         <li><a href="{{ '/team/' | relative_url }}">Team</a></li>
-        <li><a href="{{ '/vacancies/' | relative_url }}">Vacancies</a></li>
+        <li><a href="{{ '/vacancies' | relative_url }}">Vacancies</a></li>
         <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
         <!-- <li><a href="{{ '/pictures/' | relative_url }}">(Pics)</a></li> -->
       </ul>
