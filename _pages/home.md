@@ -14,7 +14,7 @@ permalink: /
 
 We are the **IDEA (Impact-Driven Evaluation of AI) Lab** in **NYU Computer Science**, led by Dr. [Emily Black](https://emblack.github.io/).
 
-We develop evaluation methods, datasets, and auditing approaches to understand **how AI systems behave in practice, **including **fairness, accountability, and real-world harms,** and to support better technical and policy decisions.
+We develop evaluation methods, datasets, and auditing approaches to understand **how AI systems behave in practice, including fairness, accountability, and real-world harms,** and to support better technical and policy decisions.
 
 ### What we work on
 - **Fairness & accountability** in high-stakes settings
