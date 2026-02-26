@@ -18,8 +18,8 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 
 |  |
 |---|
-| ![Emily Black]({{ '/images/teampics/emily.jpg' | relative_url }}){: width="180" height="180"}  |
-| **[Emily Black](https://emblack.github.io/)**  |
+| ![Emily Black]({{ '/images/teampics/emily.jpg' | relative_url }}){: .team-headshot } |
+| **[Emily Black](https://emblack.github.io/)** |
 | Principal Investigator |
 
 ---
@@ -28,7 +28,7 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 
 |  |  |  |
 |---|---|---|
-| ![Falaah Arif Khan]({{ '/images/teampics/placeholder.png' | relative_url }}){: width="180" height="180"} | ![Eliza Berman]({{ '/images/teampics/eliza.jpg' | relative_url }}){: width="180" height="180"} | ![Sajel Surati]({{ '/images/teampics/placeholder.png' | relative_url }}){: width="180" height="180"} |
+| ![Falaah Arif Khan]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } | ![Eliza Berman]({{ '/images/teampics/eliza.jpg' | relative_url }}){: .team-headshot } | ![Sajel Surati]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } |
 | **[Falaah Arif Khan](https://falaaharifkhan.github.io/research/)** | **[Eliza Berman](https://elizaberman.github.io/)** | **[Sajel Surati](https://sajelsurati.com/)** |
 | PhD | PhD | PhD |
 
@@ -38,7 +38,7 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 
 |  |  |  |  |
 |---|---|---|---|
-| ![Qihan Wang]({{ '/images/teampics/qihan.jpg' | relative_url }}){: width="180" height="180"} | ![Bella Chang]({{ '/images/teampics/bella.jpeg' | relative_url }}){: width="180" height="180"} | ![Hoon Cho]({{ '/images/teampics/placeholder.png' | relative_url }}){: width="180" height="180"} | ![Chuhan Ku]({{ '/images/teampics/chuhan.jpg' | relative_url }}){: width="180" height="180"} |
+| ![Qihan Wang]({{ '/images/teampics/qihan.jpg' | relative_url }}){: .team-headshot } | ![Bella Chang]({{ '/images/teampics/bella.jpeg' | relative_url }}){: .team-headshot } | ![Hoon Cho]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } | ![Chuhan Ku]({{ '/images/teampics/chuhan.jpg' | relative_url }}){: .team-headshot } |
 | **Qihan Wang** | **Bella Chang** | **Hoon Cho** | **Chuhan Ku** |
 | M.S. | M.S. | M.S. | M.S. |
 
@@ -48,6 +48,6 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 
 |  |  |
 |---|---|
-| ![Gordon Dai]({{ '/images/teampics/gordon.jpg' | relative_url }}){: width="180" height="180"} | ![Riley Stacy]({{ '/images/teampics/riley.jpg' | relative_url }}){: width="180" height="180"} |
+| ![Gordon Dai]({{ '/images/teampics/gordon.jpg' | relative_url }}){: .team-headshot } | ![Riley Stacy]({{ '/images/teampics/riley.jpg' | relative_url }}){: .team-headshot } |
 | **Gordon Dai** | **Riley Stacy** |
 | B.A. | B.S. (Barnard) |
