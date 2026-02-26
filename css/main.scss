@@ -91,12 +91,26 @@ firstp {
     margin-right: 30px;
 }
 
-#gridid img.team-headshot {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  object-position: center;
+.team-table {
+  width: auto;
+  margin: 0 0 2rem 0;
+  border: none;
+}
+
+.team-table th,
+.team-table td {
+  border: none !important;
+  text-align: center;
+  vertical-align: top;
+  padding: 0 12px 10px 12px;
+}
+
+.team-table img.team-headshot {
+  width: 180px !important;
+  height: 180px !important;
+  object-fit: cover !important;
+  object-position: center !important;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 10px auto;
+  max-width: none !important;
 }
