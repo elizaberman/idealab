@@ -106,6 +106,13 @@ table td {
   padding: 0 !important;
 }
 
+table td strong,
+table td a {
+  display: block !important;
+  width: 100% !important;
+  text-align: center !important;
+}
+
 table img.team-headshot {
   width: 180px !important;
   height: 180px !important;
@@ -114,14 +121,4 @@ table img.team-headshot {
   display: block !important;
   margin: 0 auto 10px auto !important;
   max-width: none !important;
-}
-
-table td p,
-table td strong,
-table td a {
-  text-align: center !important;
-}
-
-table td p {
-  margin: 0 !important;
 }
