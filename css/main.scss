@@ -91,28 +91,27 @@ firstp {
     margin-right: 30px;
 }
 
-.team-table {
-  width: auto;
-  margin: 0 0 2rem 0;
-  border: none;
+table {
   border-collapse: separate !important;
-  border-spacing: 48px 0 !important;
+  border-spacing: 36px 0 !important;
+  width: auto !important;
+  margin: 0 0 2rem 0 !important;
 }
 
-.team-table th,
-.team-table td {
+table th,
+table td {
   border: none !important;
-  text-align: center;
-  vertical-align: top;
-  padding: 0 0 10px 0;
+  text-align: center !important;
+  vertical-align: top !important;
+  padding: 0 !important;
 }
 
-.team-table img.team-headshot {
+table img.team-headshot {
   width: 180px !important;
   height: 180px !important;
   object-fit: cover !important;
   object-position: center !important;
-  display: block;
-  margin: 0 auto 10px auto;
+  display: block !important;
+  margin: 0 auto 10px auto !important;
   max-width: none !important;
 }
