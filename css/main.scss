@@ -95,6 +95,8 @@ firstp {
   width: auto;
   margin: 0 0 2rem 0;
   border: none;
+  border-collapse: separate !important;
+  border-spacing: 28px 0 !important;
 }
 
 .team-table th,
@@ -102,7 +104,7 @@ firstp {
   border: none !important;
   text-align: center;
   vertical-align: top;
-  padding: 0 28px 18px 28px;
+  padding: 0 0 10px 0;
 }
 
 .team-table img.team-headshot {
