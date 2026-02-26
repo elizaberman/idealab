@@ -16,54 +16,42 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 
 ## PI
 
-<img src="{{ '/images/teampics/emily.jpg' | relative_url }}" alt="Emily Black" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**[Emily Black](https://emblack.github.io/)** — Principal Investigator
+|  |
+|---|
+| ![Emily Black]({{ '/images/teampics/emily.jpg' | relative_url }}){: .team-headshot } |
+| **[Emily Black](https://emblack.github.io/)** |
+| Principal Investigator |
+{: .team-table }
 
 ---
 
 ## PhD students
 
-<img src="{{ '/images/teampics/placeholder.png' | relative_url }}" alt="Falaah Arif Khan" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**[Falaah Arif Khan](https://falaaharifkhan.github.io/research/)** — PhD
-
-<img src="{{ '/images/teampics/eliza.jpg' | relative_url }}" alt="Eliza Berman" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**[Eliza Berman](https://elizaberman.github.io/)** — PhD
-
-<img src="{{ '/images/teampics/placeholder.png' | relative_url }}" alt="Sajel Surati" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**[Sajel Surati](https://sajelsurati.com/)** — PhD
+|  |  |  |
+|---|---|---|
+| ![Falaah Arif Khan]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } | ![Eliza Berman]({{ '/images/teampics/eliza.jpg' | relative_url }}){: .team-headshot } | ![Sajel Surati]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } |
+| **[Falaah Arif Khan](https://falaaharifkhan.github.io/research/)** | **[Eliza Berman](https://elizaberman.github.io/)** | **[Sajel Surati](https://sajelsurati.com/)** |
+| PhD | PhD | PhD |
+{: .team-table }
 
 ---
 
 ## Master's students
 
-<img src="{{ '/images/teampics/qihan.jpg' | relative_url }}" alt="Qihan Wang" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**Qihan Wang** — M.S.
-
-<img src="{{ '/images/teampics/bella.jpeg' | relative_url }}" alt="Bella Chang" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**Bella Chang** — M.S.
-
-<img src="{{ '/images/teampics/placeholder.png' | relative_url }}" alt="Hoon Cho" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**Hoon Cho** — M.S.
-
-<img src="{{ '/images/teampics/chuhan.jpg' | relative_url }}" alt="Chuhan Ku" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**Chuhan Ku** — M.S.
+|  |  |  |  |
+|---|---|---|---|
+| ![Qihan Wang]({{ '/images/teampics/qihan.jpg' | relative_url }}){: .team-headshot } | ![Bella Chang]({{ '/images/teampics/bella.jpeg' | relative_url }}){: .team-headshot } | ![Hoon Cho]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } | ![Chuhan Ku]({{ '/images/teampics/chuhan.jpg' | relative_url }}){: .team-headshot } |
+| **Qihan Wang** | **Bella Chang** | **Hoon Cho** | **Chuhan Ku** |
+| M.S. | M.S. | M.S. | M.S. |
+{: .team-table }
 
 ---
 
 ## Undergraduate students
 
-<img src="{{ '/images/teampics/gordon.jpg' | relative_url }}" alt="Gordon Dai" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**Gordon Dai** — B.A.
-
-<img src="{{ '/images/teampics/riley.jpg' | relative_url }}" alt="Riley Stacy" width="220" height="220" style="object-fit: cover; border-radius: 8px; display: block;">
-
-**Riley Stacy** — B.S. (Barnard)
+|  |  |
+|---|---|
+| ![Gordon Dai]({{ '/images/teampics/gordon.jpg' | relative_url }}){: .team-headshot } | ![Riley Stacy]({{ '/images/teampics/riley.jpg' | relative_url }}){: .team-headshot } |
+| **Gordon Dai** | **Riley Stacy** |
+| B.A. | B.S. (Barnard) |
+{: .team-table }
