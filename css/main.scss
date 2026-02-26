@@ -91,10 +91,12 @@ firstp {
     margin-right: 30px;
 }
 
-.team-headshot {
-  width: 180px !important;
-  height: 180px !important;
-  object-fit: cover !important;
+#gridid img.team-headshot {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  object-position: center;
   display: block;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
