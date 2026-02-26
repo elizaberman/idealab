@@ -29,7 +29,7 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 ![Eliza placeholder]({{ '/images/teampics/eliza.jpg' | relative_url }})
 **[Eliza Berman](https://elizaberman.github.io/)** — PhD
 
-![Sajel placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Sajel placeholder]({{ '/images/teampics/placeholder.png' | relative_url }})
 **[Sajel Surati](https://sajelsurati.com/)** — PhD
 
 ---
@@ -42,7 +42,7 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 ![Bella Chang placeholder]({{ '/images/teampics/bella.jpeg' | relative_url }})
 **Bella Chang** — M.S.
 
-![Hoon placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Hoon placeholder]({{ '/images/teampics/placeholder.png' | relative_url }})
 **Hoon Cho** — M.S.
 
 ![Chuhan placeholder]({{ '/images/teampics/chuhan.jpg' | relative_url }})
