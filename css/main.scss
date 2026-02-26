@@ -115,3 +115,13 @@ table img.team-headshot {
   margin: 0 auto 10px auto !important;
   max-width: none !important;
 }
+
+table td p,
+table td strong,
+table td a {
+  text-align: center !important;
+}
+
+table td p {
+  margin: 0 !important;
+}
