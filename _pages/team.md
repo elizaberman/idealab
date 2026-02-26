@@ -8,7 +8,6 @@ permalink: /team/
 
 # Team
 
-Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-students), [Undergraduate students](#undergraduate-students).
 ---
 
 ## PI
