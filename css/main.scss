@@ -98,8 +98,11 @@ table {
   margin: 0 0 2rem 0 !important;
 }
 
-table th,
-table td {
+table td,
+table th {
+  width: 180px !important;
+  min-width: 180px !important;
+  max-width: 180px !important;
   border: none !important;
   text-align: center !important;
   vertical-align: top !important;
@@ -109,7 +112,6 @@ table td {
 table td strong,
 table td a {
   display: block !important;
-  width: 100% !important;
   text-align: center !important;
 }
 
