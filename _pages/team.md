@@ -16,17 +16,17 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 
 ## PI
 
-![Emily placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Emily placeholder]({{ '/images/teampics/emily.jpg' | relative_url }})
 **[Emily Black](https://emblack.github.io/)** — Principal Investigator
 
 ---
 
 ## PhD students
 
-![Falaah placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Falaah placeholder]({{ '/images/teampics/placeholder.png' | relative_url }})
 **[Falaah Arif Khan](https://falaaharifkhan.github.io/research/)** — PhD
 
-![Eliza placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Eliza placeholder]({{ '/images/teampics/eliza.jpg' | relative_url }})
 **[Eliza Berman](https://elizaberman.github.io/)** — PhD
 
 ![Sajel placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
@@ -36,24 +36,24 @@ Jump to [PI](#pi), [PhD students](#phd-students), [Master's students](#masters-s
 
 ## Master's students
 
-![Qihan placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Qihan placeholder]({{ '/images/teampics/qihan.jpg' | relative_url }})
 **Qihan Wang** — M.S.
 
-![Bella Chang placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Bella Chang placeholder]({{ '/images/teampics/bella.jpeg' | relative_url }})
 **Bella Chang** — M.S.
 
 ![Hoon placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
 **Hoon Cho** — M.S.
 
-![Chuhan placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Chuhan placeholder]({{ '/images/teampics/chuhan.jpg' | relative_url }})
 **Chuhan Ku** — M.S.
 
 ---
 
 ## Undergraduate students
 
-![Gordon placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Gordon placeholder]({{ '/images/teampics/gordon.jpg' | relative_url }})
 **Gordon Dai** — B.A.
 
-![Riley placeholder]({{ '/images/teampic/placeholder.png' | relative_url }})
+![Riley placeholder]({{ '/images/teampics/riley.jpg' | relative_url }})
 **Riley Stacy** — B.S. (Barnard)
