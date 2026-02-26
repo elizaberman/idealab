@@ -91,3 +91,10 @@ firstp {
     margin-right: 30px;
 }
 
+.team-headshot {
+  width: 180px !important;
+  height: 180px !important;
+  object-fit: cover !important;
+  display: block;
+  margin: 0 auto;
+}
