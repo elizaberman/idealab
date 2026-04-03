@@ -27,6 +27,11 @@ Our work spans three connected areas:
 3. **Learning from and auditing AI deployments on the ground**  
    We study how AI systems are actually used in practice, and build methods to audit real deployments and their impacts.
 
+<p>
+  <a href="#publications" class="btn btn-outline-primary btn-sm">Scroll to Publications</a>
+  <a href="#team" class="btn btn-outline-primary btn-sm">Scroll to Team</a>
+</p>
+
 ## Lab Publications
 
 ### Prong 1: Algorithmic Fairness and AI Safety
@@ -38,16 +43,15 @@ Our work spans three connected areas:
 <mark>- [FlipTest: Fairness Testing via Optimal Transport](https://arxiv.org/abs/1906.09218)</mark>  
 <mark>- [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)</mark>  
 <mark>- [Model Multiplicity: Opportunities, Concerns, and Solutions](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/emilybla/www/Model_Multiplicity_3.pdf)</mark>  
-<mark>- [Consistent Counterfactuals for Deep Models](https://arxiv.org/abs/2010.05175)</mark>
+<mark>- [Consistent Counterfactuals for Deep Models](https://arxiv.org/abs/2110.03109)</mark>
 
 ### Prong 2: AI and the Law / AI Governance
 - [The Legal Duty to Search for Less Discriminatory Algorithms](https://arxiv.org/pdf/2406.06817)
 - [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
 
-<mark>- [D-Hacking](https://scholarship.law.columbia.edu/faculty_scholarship/4468/)</mark>
+<mark>- [D-Hacking](https://facctconference.org/static/papers24/facct24-43.pdf)</mark>
 
 ### Prong 3: Learning from and Auditing AI Deployments on the Ground
-- Sajel’s paper
 - [Measuring Fairness in the U.S. Tax System](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
 
 <mark>- [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)</mark>
