@@ -37,7 +37,7 @@ Our work spans three connected areas:
 <mark>- [Leave-one-out Unfairness](https://arxiv.org/abs/2107.10171)</mark>  
 <mark>- [FlipTest: Fairness Testing via Optimal Transport](https://arxiv.org/abs/1906.09218)</mark>  
 <mark>- [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)</mark>  
-<mark>- [Model Multiplicity: Opportunities, Concerns, and Solutions](https://arxiv.org/abs/2103.03241)</mark>  
+<mark>- [Model Multiplicity: Opportunities, Concerns, and Solutions](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/emilybla/www/Model_Multiplicity_3.pdf)</mark>  
 <mark>- [Consistent Counterfactuals for Deep Models](https://arxiv.org/abs/2010.05175)</mark>
 
 ### Prong 2: AI and the Law / AI Governance
