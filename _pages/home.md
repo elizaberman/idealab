@@ -12,9 +12,7 @@ permalink: /
   style="width:100%; max-width:1100px; height:auto; display:block; margin: 0 auto 28px auto;"
 />
 
-We are the **IDEA (Impact-Driven Evaluation of AI) Lab** in **NYU Computer Science**, led by Dr. [Emily Black](https://emblack.github.io/).
-
-Our research develops methods to evaluate how AI is used in practice and to mitigate harms from real-world AI systems.
+We are the **IDEA (Impact-Driven Evaluation of AI) Lab** in **NYU Computer Science**, led by Dr. [Emily Black](https://emblack.github.io/). Our research develops methods to evaluate how AI is used in practice and to mitigate harms from real-world AI systems.
 
 ### Our research
 
