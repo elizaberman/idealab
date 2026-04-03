@@ -39,7 +39,7 @@ Our work spans three connected areas:
 - [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
 
 ### Prong 3: Learning from and auditing AI deployments on the ground
-- [IRS paper](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
+- [Measuring Fairness in the U.S. Tax System: Evidence from IRS Data](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
 
 ## Team
 ---
