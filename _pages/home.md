@@ -33,17 +33,17 @@ Our work spans three connected areas:
 ## <a id="publications"></a>Lab Publications
 
 #### Algorithmic Fairness and AI Safety
-- [Generative Monoculture in Large Language Models](https://arxiv.org/abs/2407.02209)
-- [Multilingual Language Models and Representation Harms](https://arxiv.org/abs/2505.15229)
-- [Towards Effective Discrimination Testing for Generative AI](https://arxiv.org/abs/2412.21052)
+** [Generative Monoculture in Large Language Models](https://arxiv.org/abs/2407.02209)
+** [Multilingual Language Models and Representation Harms](https://arxiv.org/abs/2505.15229)
+** [Towards Effective Discrimination Testing for Generative AI](https://arxiv.org/abs/2412.21052)
 
 #### AI and the Law / AI Governance
-- [The Legal Duty to Search for Less Discriminatory Algorithms](https://arxiv.org/pdf/2406.06817)
-- [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
+** [The Legal Duty to Search for Less Discriminatory Algorithms](https://arxiv.org/pdf/2406.06817)
+** [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
 
 
 #### Learning from and Auditing AI Deployments on the Ground
-- [Measuring Fairness in the U.S. Tax System](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
+** [Measuring Fairness in the U.S. Tax System](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
 
 Other papers:
 
