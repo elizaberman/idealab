@@ -32,7 +32,7 @@ Our work spans three connected areas:
 
 ## <a id="publications"></a>Lab Publications
 
-### Prong 1: Algorithmic Fairness and AI Safety
+#### Algorithmic Fairness and AI Safety
 - [Generative Monoculture in Large Language Models](https://arxiv.org/abs/2407.02209)
 - [Multilingual Language Models and Representation Harms](https://arxiv.org/abs/2505.15229)
 - [Towards Effective Discrimination Testing for Generative AI](https://arxiv.org/abs/2412.21052)
@@ -42,13 +42,13 @@ Our work spans three connected areas:
 <mark>- <a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/user/emilybla/www/Model_Multiplicity_3.pdf">Model Multiplicity: Opportunities, Concerns, and Solutions</a></mark>  
 <mark>- <a href="https://arxiv.org/abs/2110.03109">Consistent Counterfactuals for Deep Models</a></mark>
 
-### Prong 2: AI and the Law / AI Governance
+#### AI and the Law / AI Governance
 - [The Legal Duty to Search for Less Discriminatory Algorithms](https://arxiv.org/pdf/2406.06817)
 - [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
 
 <mark>- <a href="https://facctconference.org/static/papers24/facct24-43.pdf">D-Hacking</a></mark>
 
-### Prong 3: Learning from and Auditing AI Deployments on the Ground
+#### Learning from and Auditing AI Deployments on the Ground
 - [Measuring Fairness in the U.S. Tax System](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
 
 <mark>- <a href="https://arxiv.org/abs/2309.17337">Toward Operationalizing Pipeline-aware ML Fairness</a></mark>  
