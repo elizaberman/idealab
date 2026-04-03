@@ -8,7 +8,7 @@ permalink: /
 <img
   src="{{ '/images/logopic/IDEALAB.png' | relative_url }}"
   alt="IDEA LAB logo"
-  style="width:480px; max-width:95%; height:auto; display:block; margin: 8px auto 16px auto;"
+  style="width:500px; max-width:95%; height:auto; display:block; margin: 6px auto 10px auto;"
 />
 We are the **IDEA (Impact-Driven Evaluation of AI) Lab** in **NYU Computer Science**, led by Dr. [Emily Black](https://emblack.github.io/). Our research develops methods to evaluate how AI is used in practice and to mitigate harms from real-world AI systems.
 
@@ -37,22 +37,22 @@ Our work spans three connected areas:
 - [Multilingual Language Models and Representation Harms](https://arxiv.org/abs/2505.15229)
 - [Towards Effective Discrimination Testing for Generative AI](https://arxiv.org/abs/2412.21052)
 
-<mark>- [Leave-one-out Unfairness](https://arxiv.org/abs/2107.10171)</mark>  
-<mark>- [FlipTest: Fairness Testing via Optimal Transport](https://arxiv.org/abs/1906.09218)</mark>  
-<mark>- [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)</mark>  
-<mark>- [Model Multiplicity: Opportunities, Concerns, and Solutions](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/emilybla/www/Model_Multiplicity_3.pdf)</mark>  
-<mark>- [Consistent Counterfactuals for Deep Models](https://arxiv.org/abs/2110.03109)</mark>
+<mark>- <a href="https://arxiv.org/abs/2107.10171">Leave-one-out Unfairness</a></mark>  
+<mark>- <a href="https://arxiv.org/abs/1906.09218">FlipTest: Fairness Testing via Optimal Transport</a></mark>  
+<mark>- <a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/user/emilybla/www/Model_Multiplicity_3.pdf">Model Multiplicity: Opportunities, Concerns, and Solutions</a></mark>  
+<mark>- <a href="https://arxiv.org/abs/2110.03109">Consistent Counterfactuals for Deep Models</a></mark>
 
 ### Prong 2: AI and the Law / AI Governance
 - [The Legal Duty to Search for Less Discriminatory Algorithms](https://arxiv.org/pdf/2406.06817)
 - [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
 
-<mark>- [D-Hacking](https://facctconference.org/static/papers24/facct24-43.pdf)</mark>
+<mark>- <a href="https://facctconference.org/static/papers24/facct24-43.pdf">D-Hacking</a></mark>
 
 ### Prong 3: Learning from and Auditing AI Deployments on the Ground
 - [Measuring Fairness in the U.S. Tax System](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
 
-<mark>- [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)</mark>
+<mark>- <a href="https://arxiv.org/abs/2309.17337">Toward Operationalizing Pipeline-aware ML Fairness</a></mark>  
+
 
 ## <a id="team"></a>Team
 
