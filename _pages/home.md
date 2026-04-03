@@ -36,12 +36,11 @@ Our work spans three connected areas:
 - [Multi-Lingual Prompting for Generation Diversity](https://arxiv.org/abs/2505.15229)
 - [Towards Effective Discrimination Testing for Generative AI](https://arxiv.org/abs/2412.21052)
 
-### Prong 2: AI and the law / AI governance
-- Less Discriminatory Algorithms
-- Algorithmic UDAP
+### Prong 2: AI and the Law / AI Governance
+- [The Legal Duty to Search for Less Discriminatory Algorithms](https://arxiv.org/pdf/2406.06817)
+- [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
 
 ### Prong 3: Learning from and auditing AI deployments on the ground
-- Sajel’s paper
 - [IRS paper](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
 
 ## Team
