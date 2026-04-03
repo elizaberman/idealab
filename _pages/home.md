@@ -37,20 +37,21 @@ Our work spans three connected areas:
 - [Multilingual Language Models and Representation Harms](https://arxiv.org/abs/2505.15229)
 - [Towards Effective Discrimination Testing for Generative AI](https://arxiv.org/abs/2412.21052)
 
-<mark>- <a href="https://arxiv.org/abs/2107.10171">Leave-one-out Unfairness</a></mark>  
-<mark>- <a href="https://arxiv.org/abs/1906.09218">FlipTest: Fairness Testing via Optimal Transport</a></mark>  
-<mark>- <a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/user/emilybla/www/Model_Multiplicity_3.pdf">Model Multiplicity: Opportunities, Concerns, and Solutions</a></mark>  
-<mark>- <a href="https://arxiv.org/abs/2110.03109">Consistent Counterfactuals for Deep Models</a></mark>
-
 #### AI and the Law / AI Governance
 - [The Legal Duty to Search for Less Discriminatory Algorithms](https://arxiv.org/pdf/2406.06817)
 - [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
 
-<mark>- <a href="https://facctconference.org/static/papers24/facct24-43.pdf">D-Hacking</a></mark>
 
 #### Learning from and Auditing AI Deployments on the Ground
 - [Measuring Fairness in the U.S. Tax System](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
 
+Other papers:
+
+<mark>- <a href="https://arxiv.org/abs/2107.10171">Leave-one-out Unfairness</a></mark>  
+<mark>- <a href="https://arxiv.org/abs/1906.09218">FlipTest: Fairness Testing via Optimal Transport</a></mark>  
+<mark>- <a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/user/emilybla/www/Model_Multiplicity_3.pdf">Model Multiplicity: Opportunities, Concerns, and Solutions</a></mark>  
+<mark>- <a href="https://arxiv.org/abs/2110.03109">Consistent Counterfactuals for Deep Models</a></mark>
+<mark>- <a href="https://facctconference.org/static/papers24/facct24-43.pdf">D-Hacking</a></mark>
 <mark>- <a href="https://arxiv.org/abs/2309.17337">Toward Operationalizing Pipeline-aware ML Fairness</a></mark>  
 
 
