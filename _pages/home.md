@@ -29,17 +29,28 @@ Our work spans three connected areas:
 
 ## Lab Publications
 
-### Prong 1: Algorithmic fairness and AI safety
+### Prong 1: Algorithmic Fairness and AI Safety
 - [Generative Monoculture in Large Language Models](https://arxiv.org/abs/2407.02209)
-- [Multi-Lingual Prompting for Generation Diversity](https://arxiv.org/abs/2505.15229)
+- [Multilingual Language Models and Representation Harms](https://arxiv.org/abs/2505.15229)
 - [Towards Effective Discrimination Testing for Generative AI](https://arxiv.org/abs/2412.21052)
+
+<mark>- [Leave-one-out Unfairness](https://arxiv.org/abs/2107.10171)</mark>  
+<mark>- [FlipTest: Fairness Testing via Optimal Transport](https://arxiv.org/abs/1906.09218)</mark>  
+<mark>- [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)</mark>  
+<mark>- [Model Multiplicity: Opportunities, Concerns, and Solutions](https://arxiv.org/abs/2103.03241)</mark>  
+<mark>- [Consistent Counterfactuals for Deep Models](https://arxiv.org/abs/2010.05175)</mark>
 
 ### Prong 2: AI and the Law / AI Governance
 - [The Legal Duty to Search for Less Discriminatory Algorithms](https://arxiv.org/pdf/2406.06817)
 - [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
 
-### Prong 3: Learning from and auditing AI deployments on the ground
-- [Measuring Fairness in the U.S. Tax System: Evidence from IRS Data](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
+<mark>- [D-Hacking](https://scholarship.law.columbia.edu/faculty_scholarship/4468/)</mark>
+
+### Prong 3: Learning from and Auditing AI Deployments on the Ground
+- Sajel’s paper
+- [Measuring Fairness in the U.S. Tax System](https://dl.acm.org/doi/abs/10.1145/3531146.3533204)
+
+<mark>- [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)</mark>
 
 ## Team
 ---
