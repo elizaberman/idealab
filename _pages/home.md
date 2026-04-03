@@ -59,7 +59,7 @@ Other papers:
 
 |  |  |  |  |
 |---|---|---|---|
-| ![Emily Black]({{ '/images/teampics/emily.jpg' | relative_url }}){: .team-headshot } | ![Falaah Arif Khan]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } | ![Eliza Berman]({{ '/images/teampics/eliza.jpg' | relative_url }}){: .team-headshot } | ![Sajel Surati]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } |
+| ![Emily Black]({{ '/images/teampics/emily.jpg' | relative_url }}){: .team-headshot } | ![Falaah Arif Khan]({{ '/images/teampics/falaah.jpg' | relative_url }}){: .team-headshot } | ![Eliza Berman]({{ '/images/teampics/eliza.jpg' | relative_url }}){: .team-headshot } | ![Sajel Surati]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } |
 | **[Emily Black](https://emblack.github.io/)** | **[Falaah Arif Khan](https://falaaharifkhan.github.io/research/)** | **[Eliza Berman](https://elizaberman.github.io/)** | **[Sajel Surati](https://sajelsurati.com/)** |
 | Principal Investigator | PhD Student | PhD Student | PhD Student |
 
