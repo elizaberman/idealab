@@ -32,7 +32,7 @@ Our work spans three connected areas:
   <a href="#team" class="btn btn-outline-primary btn-sm">Scroll to Team</a>
 </p>
 
-## Lab Publications
+## <a id="publications"></a>Lab Publications
 
 ### Prong 1: Algorithmic Fairness and AI Safety
 - [Generative Monoculture in Large Language Models](https://arxiv.org/abs/2407.02209)
@@ -56,10 +56,9 @@ Our work spans three connected areas:
 
 <mark>- [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)</mark>
 
-## Team
----
+## <a id="team"></a>Team---
 
-## PI
+### PI
 
 |  |
 |---|
@@ -70,7 +69,7 @@ Our work spans three connected areas:
 
 ---
 
-## PhD students
+### PhD students
 
 |  |  |  |
 |---|---|---|
@@ -81,7 +80,7 @@ Our work spans three connected areas:
 
 ---
 
-## Master's students
+### Master's students
 
 |  |  |  |  |
 |---|---|---|---|
@@ -92,7 +91,7 @@ Our work spans three connected areas:
 
 ---
 
-## Undergraduate students
+### Undergraduate students
 
 |  |  |
 |---|---|
@@ -101,7 +100,7 @@ Our work spans three connected areas:
 | B.A. | B.S. (Barnard) |
 {: .team-table }
 
-### Join us
+## Join us
 We’re always excited to hear from thoughtful, motivated researchers.  
 See **[Open positions]({{ '/vacancies' | relative_url }})**.
 ---
