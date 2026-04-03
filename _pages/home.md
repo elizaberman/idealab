@@ -8,7 +8,7 @@ permalink: /
 <img
   src="{{ '/images/logopic/IDEALAB.png' | relative_url }}"
   alt="IDEA LAB logo"
-  style="width:320px; max-width:90%; height:auto; display:block; margin: 8px auto 16px auto;"
+  style="width:480px; max-width:95%; height:auto; display:block; margin: 8px auto 16px auto;"
 />
 We are the **IDEA (Impact-Driven Evaluation of AI) Lab** in **NYU Computer Science**, led by Dr. [Emily Black](https://emblack.github.io/). Our research develops methods to evaluate how AI is used in practice and to mitigate harms from real-world AI systems.
 
@@ -54,7 +54,7 @@ Our work spans three connected areas:
 
 <mark>- [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)</mark>
 
-## <a id="team"></a>Team---
+## <a id="team"></a>Team
 
 |  |  |  |  |
 |---|---|---|---|
