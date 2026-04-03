@@ -30,6 +30,11 @@ figcaption {
   margin-bottom: 1rem;
 }
 
+ol > li > ul {
+  margin-top: 0.4em;
+  margin-bottom: 0.8em;  /* ← this is what you're missing */
+}
+
 /* Top navigation bar */
 
 
