@@ -36,7 +36,7 @@ Our work spans three connected areas:
     - [FlipTest: Fairness Testing via Optimal Transport](https://arxiv.org/abs/1906.09218)
     - [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)
 
-4. **Learning from and auditing AI deployments on the ground**  
+3. **Learning from and auditing AI deployments on the ground**  
    We study how AI systems are actually used in practice and build methods to audit real deployments and their impacts. This work helps us understand what problems and harms are happening in the real world, which helps guide our technical and legal/governance research.
 
     - Resume-ing Control: (Mis)Perceptions of Agency Around GenAI Use in Recruiting Workflows
