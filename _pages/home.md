@@ -26,6 +26,8 @@ Our work spans three connected areas:
     - [Generative Monoculture in Large Language Models](https://arxiv.org/abs/2407.02209)
     - [Multilingual Language Models and Representation Harms](https://arxiv.org/abs/2505.15229)
     - [Towards Effective Discrimination Testing for Generative AI](https://arxiv.org/abs/2412.21052)
+    - [FlipTest: Fairness Testing via Optimal Transport](https://arxiv.org/abs/1906.09218)
+    - [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)
 
 2. **AI and the law / AI governance**  
    Beyond creating methods to find and prevent harm technically, we study how effective incentive structures, or AI governance strategies, to prevent harm in practice. Towards this goal, we study how to interpret the law in the context of AI systems to understand what requirements companies and other institutions using AI systems in high-stakes may be subject to, how companies can comply with those requirements, and to what extent various AI policy and governance strategies have worked in practice.
@@ -33,8 +35,6 @@ Our work spans three connected areas:
     - [The Legal Duty to Search for Less Discriminatory Algorithms](https://arxiv.org/pdf/2406.06817)
     - [Algorithmic UDAP](https://arxiv.org/pdf/2512.17007)
     - [D-Hacking](https://facctconference.org/static/papers24/facct24-43.pdf)
-    - [FlipTest: Fairness Testing via Optimal Transport](https://arxiv.org/abs/1906.09218)
-    - [Toward Operationalizing Pipeline-aware ML Fairness](https://arxiv.org/abs/2309.17337)
 
 3. **Learning from and auditing AI deployments on the ground**  
    We study how AI systems are actually used in practice and build methods to audit real deployments and their impacts. This work helps us understand what problems and harms are happening in the real world, which helps guide our technical and legal/governance research.
