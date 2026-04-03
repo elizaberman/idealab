@@ -19,9 +19,15 @@ figcaption {
     margin-bottom: 20px;
 }
 
-mark {
-  background-color: #fff59d !important;
-  color: inherit !important;
+.page__content ol > li > ul {
+  margin-top: 0.4em;
+  margin-left: 1.25em;
+  padding-left: 1.25em;
+  list-style-type: disc;
+}
+
+.page__content ol > li {
+  margin-bottom: 1rem;
 }
 
 /* Top navigation bar */
