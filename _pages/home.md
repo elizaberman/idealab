@@ -56,47 +56,21 @@ Our work spans three connected areas:
 
 ## <a id="team"></a>Team---
 
-### PI
-
-|  |
-|---|
-| ![Emily Black]({{ '/images/teampics/emily.jpg' | relative_url }}){: .team-headshot } |
-| **[Emily Black](https://emblack.github.io/)** |
-| Principal Investigator |
-{: .team-table }
-
----
-
-### PhD students
-
-|  |  |  |
-|---|---|---|
-| ![Falaah Arif Khan]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } | ![Eliza Berman]({{ '/images/teampics/eliza.jpg' | relative_url }}){: .team-headshot } | ![Sajel Surati]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } |
-| **[Falaah Arif Khan](https://falaaharifkhan.github.io/research/)** | **[Eliza Berman](https://elizaberman.github.io/)** | **[Sajel Surati](https://sajelsurati.com/)** |
-| PhD | PhD | PhD |
-{: .team-table }
-
----
-
-### Master's students
-
 |  |  |  |  |
 |---|---|---|---|
+| ![Emily Black]({{ '/images/teampics/emily.jpg' | relative_url }}){: .team-headshot } | ![Falaah Arif Khan]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } | ![Eliza Berman]({{ '/images/teampics/eliza.jpg' | relative_url }}){: .team-headshot } | ![Sajel Surati]({{ '/images/teampics/placeholder.png' | relative_url }}){: .team-headshot } |
+| **[Emily Black](https://emblack.github.io/)** | **[Falaah Arif Khan](https://falaaharifkhan.github.io/research/)** | **[Eliza Berman](https://elizaberman.github.io/)** | **[Sajel Surati](https://sajelsurati.com/)** |
+| Principal Investigator | PhD Student | PhD Student | PhD Student |
+
 | ![Qihan Wang]({{ '/images/teampics/qihan.jpg' | relative_url }}){: .team-headshot } | ![Bella Chang]({{ '/images/teampics/bella.jpeg' | relative_url }}){: .team-headshot } | ![Hoon Cho]({{ '/images/teampics/hoon.jpg' | relative_url }}){: .team-headshot } | ![Chuhan Ku]({{ '/images/teampics/chuhan.jpg' | relative_url }}){: .team-headshot } |
 | **Qihan Wang** | **Bella Chang** | **Hoon Cho** | **Chuhan Ku** |
-| M.S. | M.S. | M.S. | M.S. |
+| M.S. Student | M.S. Student | M.S. Student | M.S. Student |
+
+| ![Gordon Dai]({{ '/images/teampics/gordon.jpg' | relative_url }}){: .team-headshot } | ![Riley Stacy]({{ '/images/teampics/riley.jpg' | relative_url }}){: .team-headshot } |  |  |
+| **Gordon Dai** | **Riley Stacy** |  |  |
+| B.A. Student | B.S. Student (Barnard) |  |  |
 {: .team-table }
 
----
-
-### Undergraduate students
-
-|  |  |
-|---|---|
-| ![Gordon Dai]({{ '/images/teampics/gordon.jpg' | relative_url }}){: .team-headshot } | ![Riley Stacy]({{ '/images/teampics/riley.jpg' | relative_url }}){: .team-headshot } |
-| **Gordon Dai** | **Riley Stacy** |
-| B.A. | B.S. (Barnard) |
-{: .team-table }
 
 ## Join us
 We’re always excited to hear from thoughtful, motivated researchers.  
